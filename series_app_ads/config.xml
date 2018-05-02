@@ -1,16 +1,16 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.realdealagency.layali" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.elwesaya" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
     <name> 
-مسلسل ليالي اوجيني
+مسلسل الوصية
      
      </name>
     <description>
-               مسلسل ليالي اوجيني    
+               مسلسل الوصية    
     </description>
     <author email="ceo@realdealagency.com" href="http://www.realdealagency.com">
  
-               مسلسل ليالي اوجيني    
+               مسلسل الوصية    
 
     </author>
     <content src="index.html" />
